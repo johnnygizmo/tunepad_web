@@ -10,7 +10,7 @@
       "bpm": 120,
       "lpb": 4,
       "key": 0,
-      "scale": "Minor",
+      "scale": "Major",
       "it_timing": false,
       "it_speed": 6,
       "it_tempo": 125,
@@ -116,7 +116,7 @@
           "in_stereo": 1,
           "monitor": 1,
           "rec_source": 1,
-          "name": "Chords"
+          "name": "Track 1"
         }
       ],
       "track_dsp": [
